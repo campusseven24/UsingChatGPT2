@@ -42,6 +42,11 @@ numpy, pandas, matplotlib, requests
 
 
 
+위 DDL을 참고하여 ERD를 mermaid 코드로 작성해줘
+
+
+
+
 
 
 
