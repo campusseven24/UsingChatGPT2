@@ -65,6 +65,10 @@ numpy, pandas, matplotlib, requests
 위 구성에서 main.py 내부 코드를 알려주세요.
 
 
+FastAPI에서 middleware란 무엇이고 왜 필요한 것인가요?
+
+
+
 
 
 uvicorn app.main:app --reload
