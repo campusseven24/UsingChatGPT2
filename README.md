@@ -73,6 +73,18 @@ app.api.v1.router.py 파일의 코드를 알려주세요.
 app.api.v1.endpoints.items.py 내부코드를 보여주세요
 
 
+아래 Product DB 스키마를 참고하여 'Product' Schema 코드를 작성해 주세요.
+
+-- 2. 상품 테이블
+CREATE TABLE products (
+id SERIAL PRIMARY KEY,
+name VARCHAR(100) NOT NULL,
+price NUMERIC(10, 2) NOT NULL,
+image\_url TEXT,
+category\_id INT REFERENCES categories(id) ON DELETE SET NULL
+);
+
+
 
 
 
