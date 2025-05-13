@@ -47,6 +47,9 @@ numpy, pandas, matplotlib, requests
 
 
 
+유저가 상품을 골라 장바구니에 넣고 그 장바구니를 통해 구매하는 과정을 sequence diagram으로 mermaid 문법으로 만들어주세요.
+
+
 
 
 
