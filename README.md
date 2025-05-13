@@ -62,6 +62,7 @@ numpy, pandas, matplotlib, requests
 파일 단위로 설계를 먼저 보여주고 각각에 대한 설명을 해주세요.
 
 
+위 구성에서 main.py 내부 코드를 알려주세요.
 
 
 
