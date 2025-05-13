@@ -50,6 +50,14 @@ numpy, pandas, matplotlib, requests
 유저가 상품을 골라 장바구니에 넣고 그 장바구니를 통해 구매하는 과정을 sequence diagram으로 mermaid 문법으로 만들어주세요.
 
 
+위 데이터베이스에 들어갈 예제 데이터들을 생성하고 insert 문까지 만들어주세요.
+
+* 상품 categories로는 "티셔츠"와 "바지", "자켓"
+* 각 category 별로 3개의 예시 상품을 만들어주세요.
+* 각 상품의 가격은 10,000\~100,000 사이로 책정해주세요.
+
+
+
 
 
 
