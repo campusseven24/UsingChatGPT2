@@ -58,6 +58,11 @@ numpy, pandas, matplotlib, requests
 
 
 
+웹프레임워크인 FastAPI로 만드는 백엔드 구성 best practice를 소개해주세요.
+파일 단위로 설계를 먼저 보여주고 각각에 대한 설명을 해주세요.
+
+
+
 
 
 
