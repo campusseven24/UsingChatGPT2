@@ -13,6 +13,12 @@
 JSON 형식으로 key는 language, value는 각각의 언어로 번역된 문장을 넣어줘
 
 
+설치하실 라이브러리를 입력해주세요!
+현재 설치 가능한 항목은 다음과 같습니다:
+numpy, pandas, matplotlib, requests
+원하시는 항목을 골라주세요. 만약 목록에 없는 라이브러리가 필요하다면, 설치 가능 여부를 확인 후 안내드릴게요.
+
+
 
 
 uvicorn app.main:app --reload
