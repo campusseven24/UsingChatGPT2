@@ -9,5 +9,10 @@
 
 '''
 
+"깎아 주세요"라는 말을 영어, 중국어, 프랑스어, 대만어로 알려줘.
+JSON 형식으로 key는 language, value는 각각의 언어로 번역된 문장을 넣어줘
+
+
+
 
 uvicorn app.main:app --reload
