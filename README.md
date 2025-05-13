@@ -68,6 +68,9 @@ numpy, pandas, matplotlib, requests
 FastAPI에서 middleware란 무엇이고 왜 필요한 것인가요?
 
 
+app.api.v1.router.py 파일의 코드를 알려주세요.
+
+
 
 
 
